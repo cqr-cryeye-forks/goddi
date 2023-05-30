@@ -1,13 +1,13 @@
 // Functions to handle ldap connections and bind
 
-package goddi
+package ddi
 
 import (
 	"crypto/tls"
 	"fmt"
-	"log"
 
 	"gopkg.in/ldap.v2"
+	"log"
 )
 
 // LdapInfo contains connection info

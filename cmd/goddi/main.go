@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/NetSPI/goddi/ddi"
+	goddi "github.com/cqr-cryeye-forks/goddi/pkg/ddi"
 )
 
 func main() {

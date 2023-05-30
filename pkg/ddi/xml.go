@@ -1,6 +1,6 @@
 // Helper functions for GPP cpasswords
 
-package goddi
+package ddi
 
 import (
 	"encoding/xml"

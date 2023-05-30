@@ -1,14 +1,14 @@
+//go:build windows
 // +build windows
 
-package goddi
+package ddi
 
 import (
 	"fmt"
+	ldap "gopkg.in/ldap.v2"
 	"log"
 	"os"
 	"os/exec"
-
-	"gopkg.in/ldap.v2"
 )
 
 // GetGPP grabs all GPP passwords

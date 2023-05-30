@@ -3,7 +3,7 @@ Package goddi contains ldap query functions
 https://msdn.microsoft.com/en-us/library/ms675090(v=vs.85).aspx
 https://social.technet.microsoft.com/wiki/contents/articles/5392.active-directory-ldap-syntax-filters.aspx
 */
-package goddi
+package ddi
 
 import (
 	"fmt"

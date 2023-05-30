@@ -1,6 +1,6 @@
 // Helper functions
 
-package goddi
+package ddi
 
 import (
 	"crypto/aes"
